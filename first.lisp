@@ -10,8 +10,7 @@
    (if list (+ (car list) (sum (cdr list)))
 	0))
 
-;part 2
-;Was unable to get part two to compile properly but this is what I had to 
+;part 2 
 ;find the highest sum of consecutive numbers in a list.
 ;Error " *** - EVAL: undefined function PART2"
 
