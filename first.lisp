@@ -13,6 +13,7 @@
 ;part 2
 ;Was unable to get part two to compile properly but this is what I had to 
 ;find the highest sum of consecutive numbers in a list.
+;Error " *** - EVAL: undefined function PART2"
 
 #|
 (defun part2(list)
